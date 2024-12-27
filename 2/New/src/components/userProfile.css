@@ -1,0 +1,13 @@
+.userProfile{
+    border: 1px solid black;
+    overflow: hidden;
+    width: 200px;
+}
+
+.userProfile img{
+    width: 200px;
+    height: 150px;
+}
+.userProfileInfo {
+    padding: 10px;
+}

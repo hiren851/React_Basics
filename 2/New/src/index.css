@@ -1,0 +1,4 @@
+.cards , .profiles{
+    display: flex;
+    gap: 20px;
+}

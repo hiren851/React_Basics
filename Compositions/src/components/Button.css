@@ -1,0 +1,17 @@
+.primary{
+    background-color: blue;
+    color: white;
+}
+.secondary{
+    background-color: grey;
+    color: white;
+}
+
+.danger{
+    background-color: red;
+    color: white;
+}
+.success{
+    background-color: green;
+    color: white;
+}

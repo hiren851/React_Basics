@@ -1,0 +1,8 @@
+.main{
+    display:  flex;
+    gap: 50px;
+}
+img{
+    width: 200px;
+    height: 150px;
+}
